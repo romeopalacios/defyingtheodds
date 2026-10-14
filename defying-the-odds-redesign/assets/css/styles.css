@@ -193,6 +193,7 @@ textarea{min-height:150px;resize:vertical}
   .gallery-heading{gap:20px;margin-bottom:28px}.photo-grid{grid-template-rows:380px 250px 320px;gap:12px}.photo-grid figure{border-radius:18px}.photo-grid figcaption{left:18px;bottom:16px}
   .hero-meta{gap:14px}.band{padding:28px 0}.band .container{align-items:stretch;flex-direction:column}.band .btn{width:100%}
   .page-hero{padding:126px 0 58px}.page-hero .lead{margin-top:20px}.list-grid{gap:12px;margin-top:28px}.list-item{padding:20px 18px;gap:14px;align-items:flex-start}.list-num{flex-basis:34px;height:34px}
+  .workforce-hero h1{font-size:clamp(2.15rem,11vw,3.4rem);overflow-wrap:normal;word-break:normal}
   .form-grid{grid-template-columns:1fr}.field.full{grid-column:auto}.form-card,.info-card{padding:24px 20px;border-radius:18px}.field .btn{width:100%}.social-link{max-width:100%}.social-link span{overflow-wrap:anywhere}
   .footer{padding-top:44px}.footer-grid{grid-template-columns:1fr;gap:30px}.footer .brand span{font-size:.88rem;max-width:none}.copyright{margin-top:28px}
   .donate-box{padding:16px;gap:28px;border-radius:20px}.donate-photo{min-height:0;aspect-ratio:4/5;border-radius:16px}.donate-box .copy-stack{padding:0 4px 8px}.donate-box .btn{width:100%}.workforce-photo{aspect-ratio:4/3}.workforce-photo figcaption{left:16px;right:16px;bottom:14px;font-size:.63rem}.photo-card>img.full-frame{height:auto;aspect-ratio:4/5}
