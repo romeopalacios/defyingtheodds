@@ -17,7 +17,7 @@
 4. Commit the folder to GitHub and deploy with GitHub Pages.
 
 ## Important before launch
-- The template intentionally references the original site's existing image URLs so the same imagery is preserved. For production, download those images into `assets/img/` and update the `src` values so the redesign does not depend on the old WordPress server.
+- The organization’s original site imagery is bundled locally in `assets/images/`, so the redesign does not depend on the old WordPress server at runtime.
 - Replace the placeholder PayPal URL in `donate.html` with the organization's exact current donation URL.
 - The contact form is UI-complete but does not send mail yet. Connect it to your own serverless endpoint, backend, or mail handling solution before launch.
 - Verify the displayed statistics and wording with the organization before publishing.
@@ -26,6 +26,7 @@
 - Premium black/orange athletic visual system
 - Fixed responsive navigation
 - Stronger hero hierarchy
+- Photo-led storytelling sections and program cards
 - Responsive cards and statistics
 - Modern page heroes and section spacing
 - Accessible form labels / focus states
